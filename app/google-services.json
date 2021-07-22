@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "27126487309",
+    "project_id": "c302-firebase-c46a5",
+    "storage_bucket": "c302-firebase-c46a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27126487309:android:f42fd9db7bc9bb233f3844",
+        "android_client_info": {
+          "package_name": "sg.edu.rp.c302.id19034275.c302_p10_ps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27126487309-dl7m9glmf75mg7jj2fcfdt728sk2ubcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAluoSrD3VEMvQtXH43rjWmsjH7eI3e1Bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27126487309-dl7m9glmf75mg7jj2fcfdt728sk2ubcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27126487309:android:c13456343c3199813f3844",
+        "android_client_info": {
+          "package_name": "sg.edu.rp.c302.id19034275.c302firebasehelloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27126487309-dl7m9glmf75mg7jj2fcfdt728sk2ubcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAluoSrD3VEMvQtXH43rjWmsjH7eI3e1Bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27126487309-dl7m9glmf75mg7jj2fcfdt728sk2ubcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
